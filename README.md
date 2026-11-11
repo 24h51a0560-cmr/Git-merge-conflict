@@ -1,4 +1,4 @@
 # Git-merge-conflict
 
-Welcome to My Project
+Welcome to Python project
 
